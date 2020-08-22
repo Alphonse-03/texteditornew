@@ -23,10 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'm%z3^^bh%qi*+w!=($29ujnvtx@_c-p64y^!k-x1tgs$*e46r0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
-#'texteditor-alphonse.herokuapp.com','127.0.0.1'
+ALLOWED_HOSTS = ['texteditor-alphonse.herokuapp.com','127.0.0.1']
+
 
 
 # Application definition
