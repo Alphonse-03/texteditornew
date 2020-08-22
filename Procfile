@@ -1,0 +1,1 @@
+web: gunicorn TextEditor.wsgi --log-file -
