@@ -25,7 +25,7 @@ SECRET_KEY = 'm%z3^^bh%qi*+w!=($29ujnvtx@_c-p64y^!k-x1tgs$*e46r0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['texteditor-shalini.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['texteditorshalini.herokuapp.com','127.0.0.1']
 
 
 
